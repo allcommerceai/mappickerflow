@@ -1,7 +1,7 @@
 # Address Picker Autocomplete For Flow
 
 <div>
-    <a href="https://githubsfdeploy.herokuapp.com?owner=SalesforceLabs&repo=AddressPickerAutocompleteForFlow">
+    <a href="https://githubsfdeploy.herokuapp.com?owner=AllCommerceAI&repo=MapPickerFlow">
         <img alt="Deploy to Salesforce"
         src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
     </a>
